@@ -1,2 +1,14 @@
-/vendor/
-/s3_config.php
+vendor/
+.env
+
+config.php
+s3_config.php
+
+form_backup.php
+list_backup.php
+index_backup.php
+form.php.save
+
+test_s3.php
+
+*.log
