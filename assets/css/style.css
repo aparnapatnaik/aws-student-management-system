@@ -1,0 +1,40 @@
+body{
+    background-color:#f8f9fa;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    box-shadow:0 2px 5px rgba(0,0,0,.08);
+}
+
+.card{
+    border:none;
+    border-radius:8px;
+}
+
+.table{
+    background:#fff;
+}
+
+.table thead{
+    background:#212529;
+    color:white;
+}
+
+.page-title{
+    font-size:28px;
+    font-weight:600;
+    color:#212529;
+}
+
+.btn-primary{
+    border-radius:6px;
+}
+
+footer{
+    margin-top:60px;
+    padding:20px;
+    border-top:1px solid #ddd;
+    color:#6c757d;
+    text-align:center;
+}
