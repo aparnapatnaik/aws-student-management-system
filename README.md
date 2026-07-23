@@ -58,22 +58,22 @@ composer install
 8. ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshot/home.png)
 
 ### Add Student
-![Add Student](screenshots/add-student.png)
+![Add Student](screenshot/add-student.png)
 
 ### Student List
-![Student List](screenshots/student-list.png)
+![Student List](screenshot/student-list.png)
 
 ### Amazon S3 Bucket
-![Amazon S3](screenshots/s3-bucket.png)
+![Amazon S3](screenshot/s3-bucket.png)
 
 ### Amazon RDS
-![Amazon RDS](screenshots/rds.png)
+![Amazon RDS](screenshot/rds.png)
 
 ### Amazon EC2
-![Amazon EC2](screenshots/ec2.png)
+![Amazon EC2](screenshot/ec2.png)
 
 ## Future Improvements
 
