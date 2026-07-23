@@ -55,6 +55,25 @@ composer install
 ```
 
 7. Open the application in your browser.
+8. ## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Add Student
+![Add Student](screenshots/add-student.png)
+
+### Student List
+![Student List](screenshots/student-list.png)
+
+### Amazon S3 Bucket
+![Amazon S3](screenshots/s3-bucket.png)
+
+### Amazon RDS
+![Amazon RDS](screenshots/rds.png)
+
+### Amazon EC2
+![Amazon EC2](screenshots/ec2.png)
 
 ## Future Improvements
 
